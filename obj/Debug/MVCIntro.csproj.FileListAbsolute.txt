@@ -52,3 +52,4 @@ c:\users\grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Micro
 c:\users\grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.dll
 c:\users\grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.pdb
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csprojResolveAssemblyReference.cache
