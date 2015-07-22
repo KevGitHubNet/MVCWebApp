@@ -50,6 +50,7 @@ C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Micro
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csprojResolveAssemblyReference.cache
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.pdb
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.Migrations.Initial.resources
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csproj.GenerateResource.Cache
