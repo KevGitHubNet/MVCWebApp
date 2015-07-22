@@ -1,10 +1,10 @@
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\MVCIntro.dll.config
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\MVCIntro.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\MVCIntro.pdb
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Antlr3.Runtime.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\EntityFramework.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\EntityFramework.SqlServer.dll
-C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.dll
@@ -50,7 +50,10 @@ C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Micro
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.Migrations.Initial.resources
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.Migrations.Rating.resources
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.Migrations.DataAnnotations.resources
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csproj.GenerateResource.Cache
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.dll
 C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.pdb
-C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.Migrations.Initial.resources
-C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csproj.GenerateResource.Cache
+C:\Users\Grand\documents\visual studio 2013\Projects\MVCIntro\MVCIntro\obj\Debug\MVCIntro.csprojResolveAssemblyReference.cache
